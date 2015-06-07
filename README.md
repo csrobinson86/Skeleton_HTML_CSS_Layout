@@ -5,3 +5,5 @@
 * Semantic HTML
 
 * Reponsive 
+
+* Anyone can utilize it or build on it.
