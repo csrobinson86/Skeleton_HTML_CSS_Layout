@@ -1,6 +1,6 @@
 ### Skeleton HTML CSS Layout | Template
 
-* Quick Layout | Template for building a website quickly
+* Quick Layout | Template for building a semantic website quickly
 
 * Semantic HTML
 
